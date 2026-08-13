@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vibe-trading": {
+      "command": "/home/user/vibe-trading/.venv/bin/vibe-trading-mcp",
+      "args": []
+    }
+  }
+}
